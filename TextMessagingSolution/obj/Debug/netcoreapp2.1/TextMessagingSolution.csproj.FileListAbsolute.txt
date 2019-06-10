@@ -1,0 +1,11 @@
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\bin\Debug\netcoreapp2.1\TextMessagingSolution.deps.json
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\bin\Debug\netcoreapp2.1\TextMessagingSolution.runtimeconfig.json
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\bin\Debug\netcoreapp2.1\TextMessagingSolution.runtimeconfig.dev.json
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\bin\Debug\netcoreapp2.1\TextMessagingSolution.dll
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\bin\Debug\netcoreapp2.1\TextMessagingSolution.pdb
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\obj\Debug\netcoreapp2.1\TextMessagingSolution.csprojAssemblyReference.cache
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\obj\Debug\netcoreapp2.1\TextMessagingSolution.csproj.CoreCompileInputs.cache
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\obj\Debug\netcoreapp2.1\TextMessagingSolution.AssemblyInfoInputs.cache
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\obj\Debug\netcoreapp2.1\TextMessagingSolution.AssemblyInfo.cs
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\obj\Debug\netcoreapp2.1\TextMessagingSolution.dll
+C:\Users\mramaswamy\source\repos\TextMessagingSolution\TextMessagingSolution\obj\Debug\netcoreapp2.1\TextMessagingSolution.pdb

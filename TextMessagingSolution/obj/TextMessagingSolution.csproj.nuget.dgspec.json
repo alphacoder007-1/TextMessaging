@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\personal\\Repo\\TextMessagingSolution\\TextMessagingSolution\\TextMessagingSolution.csproj": {}
+  },
+  "projects": {
+    "D:\\personal\\Repo\\TextMessagingSolution\\TextMessagingSolution\\TextMessagingSolution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\personal\\Repo\\TextMessagingSolution\\TextMessagingSolution\\TextMessagingSolution.csproj",
+        "projectName": "TextMessagingSolution",
+        "projectPath": "D:\\personal\\Repo\\TextMessagingSolution\\TextMessagingSolution\\TextMessagingSolution.csproj",
+        "packagesPath": "C:\\Users\\mramaswamy\\.nuget\\packages\\",
+        "outputPath": "D:\\personal\\Repo\\TextMessagingSolution\\TextMessagingSolution\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mramaswamy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.teslamotors.com/Warp/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.29.1, )"
+            },
+            "Twilio.AspNet.Core": {
+              "target": "Package",
+              "version": "[5.20.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
